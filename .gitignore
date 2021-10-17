@@ -1,0 +1,6 @@
+venv/
+.idea/
+__pycache__/
+eye.png
+input.jpg
+input.png
